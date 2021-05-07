@@ -1,0 +1,60 @@
+
+.header {
+    background: blue;
+    margin-bottom: 10px;
+    padding: 20px 0;
+
+}
+
+#title {
+    text-align: center;
+    margin-bottom: 2px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#subtitle {
+    text-align: center;
+    margin-top: 2px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#main-image {
+    text-align: center;
+	width: 940px;
+	margin: 0 auto;
+}
+
+#pinguim-image {
+    text-align: center;
+ 
+}
+
+#sobre {
+    width: 940px;
+	margin: 0 auto;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#caracteristicas {
+    width: 940px;
+	margin: 0 auto;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#extincao {
+    width: 940px;
+	margin: 0 auto;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.footer {
+    text-align: center;
+    background: blue;
+    margin-bottom: 10px;
+    padding: 20px 0;
+    font-family: Arial, Helvetica, sans-serif
+
+}
